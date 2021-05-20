@@ -1,0 +1,9 @@
+C:\Users\vaitu\Documents\01_Numerique\02_Coding\CSharp\01_AI Chtx\01_Exercices\Vaitua Exercices\ReservationConcert\ReservationPlace\ReservationPlace.Models\bin\Debug\netstandard2.0\ReservationPlace.Models.deps.json
+C:\Users\vaitu\Documents\01_Numerique\02_Coding\CSharp\01_AI Chtx\01_Exercices\Vaitua Exercices\ReservationConcert\ReservationPlace\ReservationPlace.Models\bin\Debug\netstandard2.0\ReservationPlace.Models.dll
+C:\Users\vaitu\Documents\01_Numerique\02_Coding\CSharp\01_AI Chtx\01_Exercices\Vaitua Exercices\ReservationConcert\ReservationPlace\ReservationPlace.Models\bin\Debug\netstandard2.0\ReservationPlace.Models.pdb
+C:\Users\vaitu\Documents\01_Numerique\02_Coding\CSharp\01_AI Chtx\01_Exercices\Vaitua Exercices\ReservationConcert\ReservationPlace\ReservationPlace.Models\obj\Debug\netstandard2.0\ReservationPlace.Models.csprojAssemblyReference.cache
+C:\Users\vaitu\Documents\01_Numerique\02_Coding\CSharp\01_AI Chtx\01_Exercices\Vaitua Exercices\ReservationConcert\ReservationPlace\ReservationPlace.Models\obj\Debug\netstandard2.0\ReservationPlace.Models.AssemblyInfoInputs.cache
+C:\Users\vaitu\Documents\01_Numerique\02_Coding\CSharp\01_AI Chtx\01_Exercices\Vaitua Exercices\ReservationConcert\ReservationPlace\ReservationPlace.Models\obj\Debug\netstandard2.0\ReservationPlace.Models.AssemblyInfo.cs
+C:\Users\vaitu\Documents\01_Numerique\02_Coding\CSharp\01_AI Chtx\01_Exercices\Vaitua Exercices\ReservationConcert\ReservationPlace\ReservationPlace.Models\obj\Debug\netstandard2.0\ReservationPlace.Models.csproj.CoreCompileInputs.cache
+C:\Users\vaitu\Documents\01_Numerique\02_Coding\CSharp\01_AI Chtx\01_Exercices\Vaitua Exercices\ReservationConcert\ReservationPlace\ReservationPlace.Models\obj\Debug\netstandard2.0\ReservationPlace.Models.dll
+C:\Users\vaitu\Documents\01_Numerique\02_Coding\CSharp\01_AI Chtx\01_Exercices\Vaitua Exercices\ReservationConcert\ReservationPlace\ReservationPlace.Models\obj\Debug\netstandard2.0\ReservationPlace.Models.pdb

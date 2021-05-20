@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qsHnynYVBfMHlkZdvRVBb0cysx5GR/M3bUBzgtY434psFLl947halOtavpKFyRMqbLSw3Y4Ag087Fz3Q4IFQiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vaitu\\Documents\\01_Numerique\\02_Coding\\CSharp\\01_AI Chtx\\01_Exercices\\Vaitua Exercices\\ReservationConcert\\ReservationPlace\\ReservationPlace.Models\\ReservationPlace.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

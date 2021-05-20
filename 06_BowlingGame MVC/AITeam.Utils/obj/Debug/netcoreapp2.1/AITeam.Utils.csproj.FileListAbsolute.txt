@@ -1,0 +1,8 @@
+C:\Users\vaitu\Desktop\git\06_BowlingGame MVC\AITeam.Utils\bin\Debug\netcoreapp2.1\AITeam.Utils.deps.json
+C:\Users\vaitu\Desktop\git\06_BowlingGame MVC\AITeam.Utils\bin\Debug\netcoreapp2.1\AITeam.Utils.dll
+C:\Users\vaitu\Desktop\git\06_BowlingGame MVC\AITeam.Utils\bin\Debug\netcoreapp2.1\AITeam.Utils.pdb
+C:\Users\vaitu\Desktop\git\06_BowlingGame MVC\AITeam.Utils\obj\Debug\netcoreapp2.1\AITeam.Utils.AssemblyInfoInputs.cache
+C:\Users\vaitu\Desktop\git\06_BowlingGame MVC\AITeam.Utils\obj\Debug\netcoreapp2.1\AITeam.Utils.AssemblyInfo.cs
+C:\Users\vaitu\Desktop\git\06_BowlingGame MVC\AITeam.Utils\obj\Debug\netcoreapp2.1\AITeam.Utils.csproj.CoreCompileInputs.cache
+C:\Users\vaitu\Desktop\git\06_BowlingGame MVC\AITeam.Utils\obj\Debug\netcoreapp2.1\AITeam.Utils.dll
+C:\Users\vaitu\Desktop\git\06_BowlingGame MVC\AITeam.Utils\obj\Debug\netcoreapp2.1\AITeam.Utils.pdb

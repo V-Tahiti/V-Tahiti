@@ -1,0 +1,19 @@
+* Utiliser une architecture de Type Model Vue Controller (MVC)
+* Le projet de cette application console est de créer un jeu de "Bowling"
+* Le jeu est autonome.
+* Le choix du nombre de joueur est choisi aléatoirement entre 2 et 7 via une méthode et un service "randomService".
+* On affecte aléatoirement à ce joueur une force à partir d'une "enum" (faible, normale, elevée)
+* chaque joueur choisi de manière aléatoire un boule en fonction de sa taille "enum" (petit, moyen, grande)
+* La taille de la boule et la force doivent corresponde afin d'augmenter les chances de strike. (force "faible" - "petite" boule), (force "normale" avec boule "moyenne"), (force "grande" avec "grande" boule). Si la force et la taille correspondent on obtien a proba de 60% de faire un strike.
+*Si la force et la taille de la boule ne correspondent pas le joueur à une chance de 30% de faire un strike.
+* dans le cas d'un SPARE lors du 2ème lancer le principe de Force / taille s'applique pour la probabilité de faire tomber les quilles restantes.
+* Les points sont comptés et à la fin de la partie le classement des joueurs est affiché.
+
+
+ - Principes du "separation of concern" - séparation du modèle (pour les objets), de la vue (affichage "front-end") et du controlleur (logique de l'application)
+ - Les Interfaces (principe de contrat que doit respecter une classe)
+ - enum
+ - Notion de logique de services séparés
+ - Méthodes
+ - Les méthodes aléatoires ("RandomService")
+ - Les propriétés de type Objet 

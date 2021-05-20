@@ -1,0 +1,14 @@
+* Utiliser une architecture de Type Model Vue Controller (MVC)
+* Introduction au stockage dans une base données. (voir code dans le service "réservationService")
+* Principe de base de donnée relationnelle
+* LINQ
+* Simulation d'écriture de données dans la base
+
+
+ - Principes du "separation of concern" - séparation du modèle (pour les objets), de la vue (affichage "front-end") et du controlleur (logique de l'application)
+ - Les Interfaces (principe de contrat que doit respecter une classe)
+ - enum
+ - Notion de logique de services séparés
+ - Méthodes
+ - Les propriétés de type Objet 
+ 
