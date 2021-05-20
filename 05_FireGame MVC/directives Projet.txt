@@ -1,0 +1,14 @@
+- Utiliser une architecture de Type Model Vue Controller (MVC)
+Le projet de cette application console est de créer un jeu de "ballTrap"
+Le jeu est autonome.
+Il permet de choisir aléatoirement en fonction du nombre de joueurs souhaités, une liste de joueurs masculins et féminins.
+Le tir sur cible est géré par un service aléatoire avec une probabilité de réussite de l'ordre de 1/4 à chaque tir.
+Chaque joueur tire une fois à tour de rôle.
+Le premier à réussir à toucher la cible 3 fois, a gagné.
+
+ - Principes du "separation of concern" - séparation du modèle (pour les objets), de la vue (affichage "front-end") et du controlleur (logique de l'application)
+ - enum
+ - Notion de logique de services séparés
+ - Méthodes
+ - Les méthodes aléatoires ("RandomService")
+ - Les propriétés de type Objet 
