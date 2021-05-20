@@ -1,0 +1,12 @@
+* Utiliser une architecture de Type Model Vue Controller (MVC)
+* Introduction aux API
+* Création d'une API
+* Initiation à la méthode CRUD via le protocole HTTP
+* Principe de communication avec l'API via le protocole HTTP
+* Les controlleurs HTTP pour le CRUD
+* Vérification du fonctionnement de l'API dans le navigateur https://localhost:44325/api/ToDoes
+* Concepts avancé des bases données (DBContext)
+* Création d'une base données virtuelle "UseInMemoryDatabase"
+
+ - configuration de la base données en fonction de l'architecture MVC
+ 
