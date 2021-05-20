@@ -1,0 +1,4 @@
+Application Console
+Familiarisation avec le concept de :
+ - intégration simple de méthodes
+ - Affichage console en fonction de la méthode
