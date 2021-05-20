@@ -1,0 +1,8 @@
+* Utiliser une architecture de Type Model Vue Vue Model (MVVM)
+* Comprendre l'acheminement des données pour un schéma MVVM
+* Utiliser une solution WPF (Windows Plateform Foundation)
+* Créer le jeu du morpion
+* Etablir une interface graphique basique du jeu
+
+lancer l'exécutable dans Morpion.View\bin\Debug\Morpion.View.exe
+ 
