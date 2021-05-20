@@ -1,0 +1,8 @@
+Application Console
+Familiarisation avec le concept de :
+ - Type d'énumération (enum)
+ - Les propriétés
+ - la lecture/restriction des propriétés 
+ - la notion de liste
+ - la boucle "foreach"
+ - la notion de clase publiques/privée

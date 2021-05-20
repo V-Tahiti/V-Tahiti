@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "EquipesExos2/1.0.0": {
+        "runtime": {
+          "EquipesExos2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EquipesExos2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

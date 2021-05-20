@@ -1,0 +1,33 @@
+C:\Users\Lynda\Desktop\Cours Team dev\CONSOLE\EquipesExos2\bin\Debug\netcoreapp2.1\EquipesExos2.deps.json
+C:\Users\Lynda\Desktop\Cours Team dev\CONSOLE\EquipesExos2\bin\Debug\netcoreapp2.1\EquipesExos2.runtimeconfig.json
+C:\Users\Lynda\Desktop\Cours Team dev\CONSOLE\EquipesExos2\bin\Debug\netcoreapp2.1\EquipesExos2.runtimeconfig.dev.json
+C:\Users\Lynda\Desktop\Cours Team dev\CONSOLE\EquipesExos2\bin\Debug\netcoreapp2.1\EquipesExos2.dll
+C:\Users\Lynda\Desktop\Cours Team dev\CONSOLE\EquipesExos2\bin\Debug\netcoreapp2.1\EquipesExos2.pdb
+C:\Users\Lynda\Desktop\Cours Team dev\CONSOLE\EquipesExos2\obj\Debug\netcoreapp2.1\EquipesExos2.csproj.CoreCompileInputs.cache
+C:\Users\Lynda\Desktop\Cours Team dev\CONSOLE\EquipesExos2\obj\Debug\netcoreapp2.1\EquipesExos2.AssemblyInfoInputs.cache
+C:\Users\Lynda\Desktop\Cours Team dev\CONSOLE\EquipesExos2\obj\Debug\netcoreapp2.1\EquipesExos2.AssemblyInfo.cs
+C:\Users\Lynda\Desktop\Cours Team dev\CONSOLE\EquipesExos2\obj\Debug\netcoreapp2.1\EquipesExos2.dll
+C:\Users\Lynda\Desktop\Cours Team dev\CONSOLE\EquipesExos2\obj\Debug\netcoreapp2.1\EquipesExos2.pdb
+C:\Users\vaitu\Documents\01_Numérique\02_Coding\C#\01_AI Chtx\01_Exercices\EquipesExos2\obj\Debug\netcoreapp2.1\EquipesExos2.csprojAssemblyReference.cache
+C:\Users\vaitu\Documents\01_Numérique\02_Coding\C#\01_AI Chtx\01_Exercices\EquipesExos2\obj\Debug\netcoreapp2.1\EquipesExos2.csproj.CoreCompileInputs.cache
+C:\Users\vaitu\Documents\01_Numérique\02_Coding\C#\01_AI Chtx\01_Exercices\EquipesExos2\obj\Debug\netcoreapp2.1\EquipesExos2.AssemblyInfoInputs.cache
+C:\Users\vaitu\Documents\01_Numérique\02_Coding\C#\01_AI Chtx\01_Exercices\EquipesExos2\obj\Debug\netcoreapp2.1\EquipesExos2.AssemblyInfo.cs
+C:\Users\vaitu\Documents\01_Numérique\02_Coding\C#\01_AI Chtx\01_Exercices\EquipesExos2\obj\Debug\netcoreapp2.1\EquipesExos2.dll
+C:\Users\vaitu\Documents\01_Numérique\02_Coding\C#\01_AI Chtx\01_Exercices\EquipesExos2\obj\Debug\netcoreapp2.1\EquipesExos2.pdb
+C:\Users\vaitu\Documents\01_Numérique\02_Coding\C#\01_AI Chtx\01_Exercices\EquipesExos2\bin\Debug\netcoreapp2.1\EquipesExos2.deps.json
+C:\Users\vaitu\Documents\01_Numérique\02_Coding\C#\01_AI Chtx\01_Exercices\EquipesExos2\bin\Debug\netcoreapp2.1\EquipesExos2.runtimeconfig.json
+C:\Users\vaitu\Documents\01_Numérique\02_Coding\C#\01_AI Chtx\01_Exercices\EquipesExos2\bin\Debug\netcoreapp2.1\EquipesExos2.runtimeconfig.dev.json
+C:\Users\vaitu\Documents\01_Numérique\02_Coding\C#\01_AI Chtx\01_Exercices\EquipesExos2\bin\Debug\netcoreapp2.1\EquipesExos2.dll
+C:\Users\vaitu\Documents\01_Numérique\02_Coding\C#\01_AI Chtx\01_Exercices\EquipesExos2\bin\Debug\netcoreapp2.1\EquipesExos2.pdb
+C:\Users\vaitu\Documents\01_Numerique\02_Coding\CSharp\01_AI Chtx\01_Exercices\EquipesExos2\bin\Debug\netcoreapp2.1\EquipesExos2.deps.json
+C:\Users\vaitu\Documents\01_Numerique\02_Coding\CSharp\01_AI Chtx\01_Exercices\EquipesExos2\bin\Debug\netcoreapp2.1\EquipesExos2.runtimeconfig.json
+C:\Users\vaitu\Documents\01_Numerique\02_Coding\CSharp\01_AI Chtx\01_Exercices\EquipesExos2\bin\Debug\netcoreapp2.1\EquipesExos2.runtimeconfig.dev.json
+C:\Users\vaitu\Documents\01_Numerique\02_Coding\CSharp\01_AI Chtx\01_Exercices\EquipesExos2\bin\Debug\netcoreapp2.1\EquipesExos2.dll
+C:\Users\vaitu\Documents\01_Numerique\02_Coding\CSharp\01_AI Chtx\01_Exercices\EquipesExos2\bin\Debug\netcoreapp2.1\EquipesExos2.pdb
+C:\Users\vaitu\Documents\01_Numerique\02_Coding\CSharp\01_AI Chtx\01_Exercices\EquipesExos2\obj\Debug\netcoreapp2.1\EquipesExos2.csprojAssemblyReference.cache
+C:\Users\vaitu\Documents\01_Numerique\02_Coding\CSharp\01_AI Chtx\01_Exercices\EquipesExos2\obj\Debug\netcoreapp2.1\EquipesExos2.AssemblyInfoInputs.cache
+C:\Users\vaitu\Documents\01_Numerique\02_Coding\CSharp\01_AI Chtx\01_Exercices\EquipesExos2\obj\Debug\netcoreapp2.1\EquipesExos2.AssemblyInfo.cs
+C:\Users\vaitu\Documents\01_Numerique\02_Coding\CSharp\01_AI Chtx\01_Exercices\EquipesExos2\obj\Debug\netcoreapp2.1\EquipesExos2.csproj.CoreCompileInputs.cache
+C:\Users\vaitu\Documents\01_Numerique\02_Coding\CSharp\01_AI Chtx\01_Exercices\EquipesExos2\obj\Debug\netcoreapp2.1\EquipesExos2.dll
+C:\Users\vaitu\Documents\01_Numerique\02_Coding\CSharp\01_AI Chtx\01_Exercices\EquipesExos2\obj\Debug\netcoreapp2.1\EquipesExos2.pdb
+C:\Users\vaitu\Documents\01_Numerique\02_Coding\CSharp\01_AI Chtx\01_Exercices\EquipesExos2\obj\Debug\netcoreapp2.1\EquipesExos2.genruntimeconfig.cache

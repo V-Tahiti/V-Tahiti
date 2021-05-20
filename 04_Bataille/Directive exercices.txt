@@ -1,0 +1,9 @@
+Application Console
+Jeu de bataille
+Familiarisation avec le concept de :
+ - Type d'énumération (enum)
+ - Les propriétés
+ - LINQ (Language Integrated Query) Langage de requête propre à Microsoft
+ - Requête LINQ ("Count") à partir d'une liste d'objet
+ - notion algorithmique avec boucle, while, if, else if
+
