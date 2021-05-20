@@ -1,0 +1,11 @@
+C:\Users\vaitu\Documents\01_Numérique\02_Coding\C#\01_AI Chtx\01_Exercices\Postage\Postage\obj\Debug\netcoreapp2.1\Postage.csprojAssemblyReference.cache
+C:\Users\vaitu\Documents\01_Numérique\02_Coding\C#\01_AI Chtx\01_Exercices\Postage\Postage\obj\Debug\netcoreapp2.1\Postage.csproj.CoreCompileInputs.cache
+C:\Users\vaitu\Documents\01_Numérique\02_Coding\C#\01_AI Chtx\01_Exercices\Postage\Postage\obj\Debug\netcoreapp2.1\Postage.AssemblyInfoInputs.cache
+C:\Users\vaitu\Documents\01_Numérique\02_Coding\C#\01_AI Chtx\01_Exercices\Postage\Postage\obj\Debug\netcoreapp2.1\Postage.AssemblyInfo.cs
+C:\Users\vaitu\Documents\01_Numérique\02_Coding\C#\01_AI Chtx\01_Exercices\Postage\Postage\bin\Debug\netcoreapp2.1\Postage.deps.json
+C:\Users\vaitu\Documents\01_Numérique\02_Coding\C#\01_AI Chtx\01_Exercices\Postage\Postage\bin\Debug\netcoreapp2.1\Postage.runtimeconfig.json
+C:\Users\vaitu\Documents\01_Numérique\02_Coding\C#\01_AI Chtx\01_Exercices\Postage\Postage\bin\Debug\netcoreapp2.1\Postage.runtimeconfig.dev.json
+C:\Users\vaitu\Documents\01_Numérique\02_Coding\C#\01_AI Chtx\01_Exercices\Postage\Postage\bin\Debug\netcoreapp2.1\Postage.dll
+C:\Users\vaitu\Documents\01_Numérique\02_Coding\C#\01_AI Chtx\01_Exercices\Postage\Postage\bin\Debug\netcoreapp2.1\Postage.pdb
+C:\Users\vaitu\Documents\01_Numérique\02_Coding\C#\01_AI Chtx\01_Exercices\Postage\Postage\obj\Debug\netcoreapp2.1\Postage.dll
+C:\Users\vaitu\Documents\01_Numérique\02_Coding\C#\01_AI Chtx\01_Exercices\Postage\Postage\obj\Debug\netcoreapp2.1\Postage.pdb

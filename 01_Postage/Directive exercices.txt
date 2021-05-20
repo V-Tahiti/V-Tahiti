@@ -1,0 +1,10 @@
+Application Console
+Familiarisation avec le concept de :
+ - L'outil Microsoft VISUAL STUDIO
+ - Diagramme fonctionnel pour le fonctionnement de l'application
+ - le principe des classes
+ - les classes abstraites
+ - classe parent / enfant
+ - génération d'objet (Principe de la programmation orientée objet)
+ - notion de liste
+ - le role du constructeur et du destructeur
