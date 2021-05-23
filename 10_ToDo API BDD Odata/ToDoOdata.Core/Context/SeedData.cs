@@ -11,21 +11,34 @@ namespace ToDoOdata.Core
     {
         public static void Initialize(ToDoOdataContext context)
         {
-            // insertion de donnée dans la table ToDo
-            if (!context.ToDoes.Any())
+            // insertion de donnée dans la table ToDo + ToDoType
+            if (!context.ToDoes.Any() && !context.ToDoTypes.Any())
             {
                 context.ToDoes.AddRange(
 
                     new ToDo
                     {
-                        Description = "Test 1"
+                        Description = "A faire1"
                     },
 
                     new ToDo
                     {
+                        Description = "A faire2"
+                    }
+                    );
+                 context.ToDoType.AddRange(
+
+                    new ToDoType
+                    {
+                        Description = "Test 1"
+                    },
+
+                    new ToDoType
+                    {
                         Description = "Test 2"
                     }
                     );
+                
 
                 context.SaveChanges();
             }
