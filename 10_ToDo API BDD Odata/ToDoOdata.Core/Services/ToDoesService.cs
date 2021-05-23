@@ -20,5 +20,11 @@ namespace ToDoOdata.Core.Services
         {
             return context.ToDoes;
         }
+
+        public async Task<ToDo> GetToDoById(int id)
+        {
+            return await context.ToDoes.Include(s => s.ToDoType).FirstOrDefaultAsync(opt => opt.Id == id);
+        }
     }
+   
 }
