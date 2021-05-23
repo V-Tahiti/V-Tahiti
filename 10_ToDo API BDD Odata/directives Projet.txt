@@ -2,6 +2,7 @@
 * Initiation au protocole Odata (Open Data Protocol) pour créer et consommer des API de type RESTful
 https://www.odata.org
 * Création d'une API
+* Création des controlleurs via EntityFramework 
 * Surcharge de l'API via OData
 * Vérification du fonctionnement de l'API dans le navigateur https://localhost:"numéro générique"/api/ToDoes
 * Génération de la documentation de l'API via OData https://localhost:"numéro générique"/api/$metadata
@@ -10,6 +11,6 @@ https://www.odata.org
 * Création d'une base données virtuelle "UseInMemoryDatabase"
 
  - configuration de la base données en fonction de l'architecture MVC
- - notion de clé primaire et clé étrangère dans les modèles pour la conception des relations entre les tables d'une base de données
+ - notion de clé primaire et clé étrangère dans les modèles d'objets pour la conception des relations entre les tables d'une base de données
  - Génération des différents controlleurs en fonction des différents modèles
  
