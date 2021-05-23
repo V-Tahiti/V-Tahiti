@@ -1,4 +1,4 @@
-﻿using FireGame.Core;
+using FireGame.Core;
 using FireGame.Core.Services;
 using FireGame.Model;
 using System;
@@ -34,6 +34,8 @@ namespace FireGame.ConsoleView
 
             Console.ForegroundColor = ConsoleColor.DarkGreen;
             Console.WriteLine($"{gameService.Winner.Bib} - {gameService.Winner.Name} gagne la partie");
+            Console.WriteLine("Pour terminer le programme veuiller appuyer sur une touche");
+            Console.ReadKey();
         }
 
         static void ShowScores(Player currentPlayer, bool targetHit, List<Player> players)
