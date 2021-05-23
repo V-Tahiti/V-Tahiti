@@ -5,6 +5,8 @@ https://www.odata.org
 * Création des controlleurs via EntityFramework 
 * Surcharge de l'API via OData
 * Vérification du fonctionnement de l'API dans le navigateur https://localhost:"numéro générique"/api/ToDoes
+* Méthode GET by Id https://localhost:"numéro générique"/api/ToDoes/1
+* Extension de l'affichage de requête via le protocole OData https://localhost:"numéro générique"/api/ToDoes/?$expand=ToDoType
 * Génération de la documentation de l'API via OData https://localhost:"numéro générique"/api/$metadata
 * Concepts avancé des bases données (DBContext)
 * BDD relationnelles. Primary key, Foreign Key
@@ -12,5 +14,6 @@ https://www.odata.org
 
  - configuration de la base données en fonction de l'architecture MVC
  - notion de clé primaire et clé étrangère dans les modèles d'objets pour la conception des relations entre les tables d'une base de données
- - Génération des différents controlleurs en fonction des différents modèles
+ - Génération des différents controlleurs via EntityFramework en fonction des différents modèles
+ - Notion d'asychronicité pour les requêtes
  
